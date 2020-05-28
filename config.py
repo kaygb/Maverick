@@ -21,7 +21,7 @@ site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2019-12-06T12:00+08:00"
 author = "AlanDecode"
 email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://www.eas1.cn"
 description = "This is Maverick, Theme Galileo."
 key_words = ["Maverick", "AlanDecode", "Galileo", "blog"]
 language = 'english'
@@ -76,8 +76,8 @@ social_links = [
 valine = {
     "enable": True,
     "el": '#vcomments',
-    "appId": "IKRAfuPq0zrz6Wfje8ahHAIP-gzGzoHsz",
-    "appKey": "lFaCWkd4xCs0Ng5UWs1eHNwU",
+    "appId": "",
+    "appKey": "",
     "visitor": True,
     "recordIP": True
 }
